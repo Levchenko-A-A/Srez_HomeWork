@@ -61,6 +61,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie37", "Zadanie37\Zada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie40", "Zadanie40\Zadanie40.csproj", "{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie39 - банк счет", "..\Visual2\HomeWork27-2\Zadanie39 - банк счет.csproj", "{1700AE65-3A2E-41C7-AE80-16E484CB361F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1700AE65-3A2E-41C7-AE80-16E484CB361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1700AE65-3A2E-41C7-AE80-16E484CB361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1700AE65-3A2E-41C7-AE80-16E484CB361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1700AE65-3A2E-41C7-AE80-16E484CB361F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
