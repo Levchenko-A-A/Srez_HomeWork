@@ -45,19 +45,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie20-24 - работа
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie25-27 - работа с двумерным массовом", "Zadanie25\Zadanie25-27 - работа с двумерным массовом.csproj", "{A6699A41-23CD-4008-AB8A-CF6A35CBC0D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie27-31 - работа с масивом масивов", "Zadanie27-31\Zadanie27-31 - работа с масивом масивов.csproj", "{29728372-7FEA-4DDE-970B-100A3084B299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie27-31 - работа с масивом масивов", "Zadanie27-31\Zadanie27-31 - работа с масивом масивов.csproj", "{29728372-7FEA-4DDE-970B-100A3084B299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie32 - ф суммы двух чисел", "Zadanie32\Zadanie32 - ф суммы двух чисел.csproj", "{80A317C8-E815-4196-B9F6-98C3C5F04D37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie32 - ф суммы двух чисел", "Zadanie32\Zadanie32 - ф суммы двух чисел.csproj", "{80A317C8-E815-4196-B9F6-98C3C5F04D37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie33 - является ли число простым", "Zadanie33\Zadanie33 - является ли число простым.csproj", "{1A154312-8789-44E5-A66F-5656832494A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie33 - является ли число простым", "Zadanie33\Zadanie33 - является ли число простым.csproj", "{1A154312-8789-44E5-A66F-5656832494A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie34 -проверка строки на палиндромом", "Zadanie34\Zadanie34 -проверка строки на палиндромом.csproj", "{E324B4BE-31AC-43B3-9C55-F99D8DA90867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie34 -проверка строки на палиндромом", "Zadanie34\Zadanie34 -проверка строки на палиндромом.csproj", "{E324B4BE-31AC-43B3-9C55-F99D8DA90867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie35 - функцию для вычисления факториала числа", "Zadanie35\Zadanie35 - функцию для вычисления факториала числа.csproj", "{7A32C344-5FE7-440B-9595-6F4EDF353DAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie35 - функцию для вычисления факториала числа", "Zadanie35\Zadanie35 - функцию для вычисления факториала числа.csproj", "{7A32C344-5FE7-440B-9595-6F4EDF353DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie36 - ф для нах-я НОК и НОД", "Zadanie36\Zadanie36 - ф для нах-я НОК и НОД.csproj", "{F2408D26-6FFF-463A-97BA-534D2AC4A82F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie36 - ф для нах-я НОК и НОД", "Zadanie36\Zadanie36 - ф для нах-я НОК и НОД.csproj", "{F2408D26-6FFF-463A-97BA-534D2AC4A82F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie37", "Zadanie37\Zadanie37.csproj", "{D658125C-B4E3-4197-A159-B81A85CD5E69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie37", "Zadanie37\Zadanie37.csproj", "{D658125C-B4E3-4197-A159-B81A85CD5E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie40", "Zadanie40\Zadanie40.csproj", "{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{D658125C-B4E3-4197-A159-B81A85CD5E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D658125C-B4E3-4197-A159-B81A85CD5E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D658125C-B4E3-4197-A159-B81A85CD5E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA128C2B-D8F0-4B00-A5D2-53E4FF120022}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
